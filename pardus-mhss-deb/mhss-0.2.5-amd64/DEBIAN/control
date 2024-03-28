@@ -1,0 +1,9 @@
+Package: mhss
+Version: 0.2.5
+Depends: postgresql, git, zint, libqt6sql6-psql, libqt6multimedia6, libqt6serialport6, libqt6network6, libqt6charts6, libqt6printsupport6, libqt6core5compat6
+Section: unknown 
+Priority: optional 
+Architecture: amd64 
+Maintainer: Mehmet AKDEMİR <mehmet@basat.dev> 
+Homepage: https://basat.dev/ 
+Description: Küçük ölçekli işletmeler için barkodlu hızlı satış yazılımı. 
